@@ -1,0 +1,14 @@
+#home-page {
+  padding: 1rem 3rem;
+  h1 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .card-container {
+    display: flex;
+    flex-flow: row wrap;
+    padding-top: 2rem;
+    column-gap: 5rem;
+    // justify-content: center;
+  }
+}
